@@ -143,7 +143,8 @@ html[data-theme="dark"] .theme-toggle .dot{
 
 /* ---------- HERO ---------- */
 .hero{
-  padding: 100px 0 80px;
+  padding-top: 100px;
+  padding-bottom: 80px;
   border-bottom: 1px solid var(--line);
 }
 .eyebrow{
@@ -241,7 +242,8 @@ html[data-theme="dark"] .theme-toggle .dot{
 
 /* ---------- SECTION TITLES ---------- */
 .section{
-  padding: 90px 0;
+  padding-top: 90px;
+  padding-bottom: 90px;
   border-bottom: 1px solid var(--line);
 }
 .section-title{
@@ -383,7 +385,8 @@ html[data-theme="dark"] .theme-toggle .dot{
 
 /* ---------- CONTACT ---------- */
 .contact{
-  padding: 90px 0 60px;
+  padding-top: 90px;
+  padding-bottom: 60px;
 }
 .contact h2{
   font-size: clamp(2rem, 5vw, 3.2rem);
@@ -402,7 +405,8 @@ html[data-theme="dark"] .theme-toggle .dot{
 }
 
 footer{
-  padding: 28px 0 40px;
+  padding-top: 28px;
+  padding-bottom: 40px;
   display:flex;
   justify-content:space-between;
   align-items:center;
