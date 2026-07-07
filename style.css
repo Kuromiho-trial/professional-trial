@@ -381,9 +381,10 @@ html[data-theme="dark"] .theme-toggle .dot{
   line-height: 1.6;
 }
 .testi-card .attrib{
-  font-size: 0.75rem;
+  font-size: 0.82rem;
   color: var(--muted);
 }
+
 
 /* ---------- CONTACT ---------- */
 .contact{
