@@ -375,6 +375,7 @@ html[data-theme="dark"] .theme-toggle .dot{
   border-color: var(--accent);
 }
 .testi-card p{
+  font-family:'Plus Jakarta Sans', sans-serif;
   font-size: 0.98rem;
   margin-bottom: 20px;
 }
